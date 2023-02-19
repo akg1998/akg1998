@@ -40,8 +40,10 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akg1998&layout=compact&theme=vision-friendly-dark)](https://github.com/akg1998/github-readme-stats)
+<div id="most-used" align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akg1998&layout=compact&theme=vision-friendly-dark)](https://github.com/akg1998/github-readme-stats)
+</div
 
 <h2>📫 How to reach me</h2>
 <div id="badges">
