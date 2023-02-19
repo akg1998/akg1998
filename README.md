@@ -39,15 +39,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
 </p>
 </div>
-
-<div id="most-used" align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akg1998&layout=compact&theme=vision-friendly-dark)](https://github.com/akg1998/github-readme-stats)
-</div
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akg1998&layout=compact&theme=vision-friendly-dark)](https://github.com/akg1998/github-readme-stats)-->
 
 <h2>📫 How to reach me</h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/akshay-ghavale/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
-  <a href="akshayghavale1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="mailto:akshayghavale1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
     <a href="https://twitter.com/syakshay17"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
