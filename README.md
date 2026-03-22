@@ -25,8 +25,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing my **Master's in Web Engineering** at the **Technical University of Chemnitz, Germany**.
-- 💼 Experienced **Software Engineer** specializing in robust Java backend architecture, REST API design, and Full-Stack development.
+- 🎓 Holds a **Master's Degree in Web Engineering** from the **Technical University of Chemnitz, Germany**.
+- 💼 Currently working as a **Software Developer** specializing in robust Java backend architecture, REST API design, and Full-Stack development.
 - 🚀 Always architecting new applications, optimizing relational/graph databases, and exploring cutting-edge Cloud architectures.
 - ⚡ **Fun fact**: I love optimizing complex algorithms and mitigating security vulnerabilities (like in my *Revivify* project!).
 
@@ -42,15 +42,16 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 🚀 Featured Engineering Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akg1998&show_icons=true&title_color=10b981&icon_color=3b82f6&text_color=9ca3af&bg_color=0f172a&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akg1998&layout=compact&title_color=10b981&text_color=9ca3af&bg_color=0f172a&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[CampusFlow](https://github.com/akg1998/CampusFlow)** | Full-stack university management & admin system utilizing RDF Graph data storage and isolated RBAC dashboards. | `React`, `Django`, `AWS` |
+| **[Revivify](https://github.com/akg1998/Revivify)** | Advanced security architecture mitigating shoulder-surfing via dynamic, randomized alphanumeric token mapping. | `Java`, `Security` |
+| **[Surveillance System](https://github.com/akg1998/Intelligent-Surveiilance-System)** | Real-time violence detection engine utilizing spatial CNNs and temporal LSTMs across live video streams. | `Python`, `AI` |
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akg1998&bg_color=0f172a&color=10b981&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <i>"I build resilient backend architectures that scale gracefully."</i>
 </div>
