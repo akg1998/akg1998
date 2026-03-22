@@ -15,11 +15,13 @@
   <a href="https://twitter.com/syakshay17">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <!-- MAKE SURE TO REPLACE THIS LINK WITH YOUR ACTUAL VERCEL URL -->
-  <a href="https://your-vercel-portfolio-url-here.vercel.app/">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
 </p>
+
+<br>
+
+<h2 align="center">
+  🚀 <a href="https://your-vercel-portfolio-url-here.vercel.app/"><b>Click Here to View My Interactive Portfolio</b></a> 🚀
+</h2>
 
 ---
 
