@@ -20,7 +20,7 @@
 <br>
 
 <h2 align="center">
-  🚀 <a href="https://your-vercel-portfolio-url-here.vercel.app/"><b>Click Here to View My Interactive Portfolio</b></a> 🚀
+  🚀 <a href="https://akshay-ghavale-portfolio.vercel.app/"><b>Click Here to View My Interactive Portfolio</b></a> 🚀
 </h2>
 
 ---
