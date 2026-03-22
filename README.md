@@ -1,50 +1,56 @@
-
-<!--
-**akg1998/akg1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="250"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="250" alt="Animated Mac Giphy"/>
 </div>
-<p><h2>Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> </h2> </p>
 
-- 🌱 I’m currently doing my Master's in Web Engineering at Technical University of Chemnitz, Germany.
+<h1 align="center">Hi there, I'm Akshay Ghavale! 👋</h1>
+<h3 align="center">Full Stack & Backend Developer | Building Robust Digital Architectures <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/></h3>
 
-- :telescope: I have worked as a Software Engineer and contributed to frontend and backend for building web applications.
-
-- :seedling: Exploring more aspects of programming.
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
- <p>
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-ghavale/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:akshayghavale1998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://twitter.com/syakshay17">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <!-- MAKE SURE TO REPLACE THIS LINK WITH YOUR ACTUAL VERCEL URL -->
+  <a href="https://your-vercel-portfolio-url-here.vercel.app/">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </p>
-</div>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akg1998&layout=compact&theme=vision-friendly-dark)](https://github.com/akg1998/github-readme-stats)-->
 
-<h2>📫 How to reach me</h2>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/akshay-ghavale/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
-  <a href="mailto:akshayghavale1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-    <a href="https://twitter.com/syakshay17"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Currently pursuing my **Master's in Web Engineering** at the **Technical University of Chemnitz, Germany**.
+- 💼 Experienced **Software Engineer** specializing in robust Java backend architecture, REST API design, and Full-Stack development.
+- 🚀 Always architecting new applications, optimizing relational/graph databases, and exploring cutting-edge Cloud architectures.
+- ⚡ **Fun fact**: I love optimizing complex algorithms and mitigating security vulnerabilities (like in my *Revivify* project!).
+
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,js,ts,react,html,css,mysql,postgres,docker,aws,git&perline=7" alt="My Skills" />
+  </a>
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akg1998&show_icons=true&title_color=10b981&icon_color=3b82f6&text_color=9ca3af&bg_color=0f172a&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akg1998&layout=compact&title_color=10b981&text_color=9ca3af&bg_color=0f172a&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akg1998&bg_color=0f172a&color=10b981&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
